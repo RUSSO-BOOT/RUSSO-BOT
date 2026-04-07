@@ -1,7 +1,7 @@
 {
   "name": "russo-bot",
   "version": "1.0.0",
-  "description": "Bot de Vendas Russo",
+  "description": "Russo Bot V3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

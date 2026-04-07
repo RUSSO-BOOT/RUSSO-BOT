@@ -1,0 +1,17 @@
+{
+  "name": "russo-bot",
+  "version": "1.0.0",
+  "description": "Bot Russo V3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "@hapi/boom": "latest",
+    "qrcode-terminal": "latest",
+    "pino": "latest",
+    "express": "latest",
+    "moment-timezone": "latest"
+  }
+}

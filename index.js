@@ -17,7 +17,7 @@ const moment = require('moment-timezone')
 
 // CONFIGURAÇÃO
 const ownerNumber = '5565993416402@s.whatsapp.net' 
-const botPhoneNumber = '5545999282949' 
+const botPhoneNumber = '554599282949' 
 
 if (!fs.existsSync('./database.json')) fs.writeFileSync('./database.json', JSON.stringify({ aluguel: {}, usuarios: {} }))
 const getDb = () => JSON.parse(fs.readFileSync('./database.json'))

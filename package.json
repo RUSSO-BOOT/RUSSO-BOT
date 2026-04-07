@@ -1,7 +1,7 @@
 {
   "name": "russo-bot",
   "version": "1.0.0",
-  "description": "Russo Bot V3",
+  "description": "Bot de Vendas Russo",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,10 +10,7 @@
     "@whiskeysockets/baileys": "latest",
     "@hapi/boom": "latest",
     "qrcode-terminal": "latest",
-    "yt-search": "latest",
-    "ytdl-core": "latest",
     "pino": "latest",
-    "express": "latest",
-    "moment-timezone": "latest"
+    "express": "latest"
   }
 }

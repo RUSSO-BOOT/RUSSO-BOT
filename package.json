@@ -1,3 +1,11 @@
+{
+  "name": "russo-bot",
+  "version": "1.1.0",
+  "description": "Bot de aluguel Russo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@google/generative-ai": "^0.1.0",
@@ -9,3 +17,4 @@
     "ytdl-core": "^4.11.4",
     "fs-extra": "^11.1.1"
   }
+}
